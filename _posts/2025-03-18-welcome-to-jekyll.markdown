@@ -35,7 +35,6 @@ For the final assignment, we’re focusing on Olympic data from the Olympic Game
 
 We also selected 20 focus countries as seen in Table 1 so we can take a closer look at the patterns behind their medal counts. Our selection was designed to cover a full range of Olympic performance-from top medal-winning nations to countries that rarely or never win medals. We focused on countries with stable national identities since the 1970s, which allows us to make fair time-series comparisons. The chosen countries also represent a wide variety of population sizes, from less than a million to over a billion, and include nations with different economic strengths and levels of human development index.
 
-
 <br />
 <br />
 <style>
@@ -361,17 +360,16 @@ What if the key to Olympic success isn’t just wealth or size, but how well a c
 
 Instead of focusing solely on economic strength, we examined broader factors - like life expectancy, access to education, and overall standard of living - to understand their influence on Olympic success. For a historical perspective, we used the Augmented Human Development Index (AHDI), developed by the Rafael del Pino Foundation [^8]. AHDI expands upon the traditional HDI by including political and civil freedoms, providing a more holistic view of a country's development. Could this be the missing piece in explaining why some countries consistently outperform others?
 
-The bar chart in Figure 10 compares countries by their average AHDI and their Olympic medal counts over the last fifty years.
+The bar chart [Fig. 10] categorizes Olympic medal counts into four AHDI brackets, revealing a clear pattern: countries in the 'Very High' bracket overwhelmingly lead in medal counts. This supports the idea that development plays a significant role in Olympic success. However, the presence of medals in lower brackets suggests that development alone does not fully determine outcomes, raising questions about the role of other factors.
 
 <iframe src="/assets/ahdi_barPlot.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 10. 
 This chart categorizes Olympic medal counts into four AHDI brackets: Low (< 0.26), Medium (0.26–0.37), High (0.37–0.52), and Very High (> 0.52). Countries in the 'Very High' bracket overwhelmingly lead in medal counts, supporting the idea that development plays a significant role in Olympic success. However, the presence of medals in lower brackets suggests that development alone does not fully determine outcomes.
-
 </div><br>
 
-Countries with higher AHDI tend to win more medals, but there are clear outliers in both directions, suggesting that development matters, but doesn’t fully determine success.
+To explore these nuances further, the scatterplot [Fig. 11] compares the average AHDI of our 20 focus countries with their total Olympic medal counts over the last fifty years. This visualization highlights the general trend that countries with higher AHDI - such as Japan, Norway, and the USA - tend to dominate the medal tables. These nations tend to have robust education systems, good public health infrastructure, and widespread access to recreational sports, all of which help nurture athletic talent from a young age.
 
-There is a general trend: countries with higher AHDI scores - like Japan, Norway, and the USA - often have strong Olympic track records. These nations tend to have robust education systems, good public health infrastructure, and widespread access to recreational sports, all of which help nurture athletic talent from a young age. But just like with GDP, AHDI doesn’t tell the whole story. To dig deeper, we take a closer look at two countries that illustrate both sides of this dynamic: _Norway_ and _Ethiopia_.
+But just like with GDP, AHDI doesn’t tell the whole story. To dig deeper, we take a closer look at two countries that illustrate both sides of this dynamic: _Norway_ and _Ethiopia_.
 
 <iframe src="/assets/ahdi_scatterPlot.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 11. 
@@ -453,7 +451,7 @@ The correlation matrix [Fig. 15] demonstrates the relationships between key metr
 
 <iframe src="/assets/corrMatrix.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 1px; color: #666; text-align: left; padding: 2px; font-weight: normal; font-style: italic;">Fig 15. 
-This heatmap visualizes the relationships between key metrics—population, GDP per capita, AHDI, and Olympic medal counts. The strongest correlation is between AHDI and medal counts (0.54), suggesting that development plays a significant role in Olympic success. At the same time, weaker correlations with population (0.24) and GDP per capita (-0.13) highlight that size and wealth alone do not fully determine outcomes.
+This heatmap visualizes the relationships between key metrics—population, GDP per capita, AHDI, and Olympic medal counts. The strongest correlation is between AHDI and medal counts (0.42), suggesting that development plays a significant role in Olympic success. At the same time, weaker correlations with population (0.19) and GDP per capita (0.08) highlight that size and wealth alone do not fully determine outcomes.
 </div>
 <br>
 
