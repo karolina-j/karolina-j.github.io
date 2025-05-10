@@ -302,9 +302,9 @@ This link is clear in Figure 6, which shows the relationship between GDP per cap
 
 However, this trend isn’t perfect. A few key exceptions challenge the idea that money guarantees Olympic success. Consider:
 
-*Brunei: Despite being a high-income country, it has never won an Olympic medal. This may reflect limited investment in competitive sports, a small population, or lack of sports infrastructure and tradition.
+* Brunei: Despite being a high-income country, it has never won an Olympic medal. This may reflect limited investment in competitive sports, a small population, or lack of sports infrastructure and tradition.
 
-*Kenya: In contrast, Kenya has a relatively low GDP per capita but consistently earns Olympic medals, especially in long-distance running. Strong cultural focus, natural training conditions, and targeted investment have helped Kenya punch above its economic weight.
+* Kenya: In contrast, Kenya has a relatively low GDP per capita but consistently earns Olympic medals, especially in long-distance running. Strong cultural focus, natural training conditions, and targeted investment have helped Kenya punch above its economic weight.
 
 To zoom out, we can examine overall Olympic performance by grouping countries into income brackets. In **Figure 7**, countries are divided into four GDP categories. The "Very High" income group (> $25k) accounts for the greatest number of medals, but the "Medium" income group also performs strongly, showing that strategic investment and sports focus can partially offset limited national wealth.
 
