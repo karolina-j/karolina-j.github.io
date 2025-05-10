@@ -292,13 +292,13 @@ While population size plays a significant role, it’s clearly not the only fact
 
 ### Money Talks — The Economic Engine
 
-While population size gives countries a head start, it’s often wealth that helps them reach the finish line. Nations with higher GDP [3] per capita can invest in elite athlete development: world-class facilities, full-time coaching, sports science support, nutrition programs, and recovery infrastructure. These resources matter — especially at the razor-thin margins of Olympic competition.
+While population size gives countries a head start, it’s often wealth that helps them reach the finish line. Nations with higher GDP [^3] per capita can invest in elite athlete development: world-class facilities, full-time coaching, sports science support, nutrition programs, and recovery infrastructure. These resources matter — especially at the razor-thin margins of Olympic competition.
 
 This link is clear in Figure 6, which shows the relationship between GDP per capita and total Olympic medals for 20 focus countries. Nations like the USA, Japan, and South Korea consistently outperform in total medals and also rank among the world’s richest countries.
 
 <iframe src="/assets/gdp_medal_scatter.html" height="600px" width="100%" style="border:none;"></iframe>
-<p class="figure-caption">
-Each dot represents a country. Wealthier countries (right side of the graph) generally win more medals, especially above the $25,000 mark.</p>
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 3. Relationship between GDP per Capita and Olympic medals (1972–2022): Each dot represents a country. Wealthier countries (right side of the graph) generally win more medals, especially above the $25,000 mark.</div>
+
 
 However, this trend isn’t perfect. A few key exceptions challenge the idea that money guarantees Olympic success. Consider:
 
@@ -309,18 +309,16 @@ However, this trend isn’t perfect. A few key exceptions challenge the idea tha
 To zoom out, we can examine overall Olympic performance by grouping countries into income brackets. In **Figure 5**, countries are divided into four GDP categories. The "Very High" income group (> $25k) accounts for the greatest number of medals, but the "Medium" income group also performs strongly, showing that strategic investment and sports focus can partially offset limited national wealth.
 
 <iframe src="/assets/gdp_medal_bar_chart.html" height="600px" width="100%" style="border:none;"></iframe>
-<p class="figure-caption">Fig 5. Olympic Medal Count by GDP per Capita Bracket for all countries. Countries with higher GDP per capita have greater overall Olympic success, but middle-income countries also contribute significantly to global medal totals.</p>
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 5. Olympic Medal Count by GDP per Capita Bracket for all countries. Countries with higher GDP per capita have greater overall Olympic success, but middle-income countries also contribute significantly to global medal totals.</div>
 
 For a closer look at how wealth helps sustain Olympic success over time, we can examine two economic success stories:
 
-**Figure 6: Japan – GDP and Medals Over Time**
-
 <iframe src="/assets/gdp_medal_japan.html" height="600px" width="100%" style="border:none;"></iframe> 
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 6. Japan – GDP and Medals Over Time</div>
 As Japan’s economy grew in the 1980s and stabilized in the 2000s, its Olympic performance also remained strong, particularly in Summer Games.
 
-**Figure 7: Hungary – GDP and Medals Over Time**
-
 <iframe src="/assets/gdp_medal_hungary.html" height="600px" width="100%" style="border:none;"></iframe>  
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 7. Hungary – GDP and Medals Over Time</div>
 Despite a more modest GDP, Hungary has remained a strong Summer Olympics participant, showing how cultural tradition, sports specialization, and targeted support can rival economic advantages.
 
 Together, these visualizations show that while wealth doesn’t guarantee Olympic success, it offers a clear advantage — especially when combined with national investment, sports infrastructure, and cultural support.
@@ -383,18 +381,27 @@ In other words, AHDI adds another important piece to the Olympic puzzle, but jus
 
 ### Other Reasons
 
-When we look at Olympic performance over the past fifty years, it’s tempting to focus purely on medal counts. But zooming out to compare how many athletes each country has sent to the Games since 1972 alongside how many medals they’ve actually won offers a bigger picture. In one key visualization, we see this relationship laid out on a log plot: countries that send more athletes tend to win more medals—no surprise there.
+When we look at Olympic performance over the past fifty years, it’s tempting to focus purely on medal counts. But zooming out to compare how many athletes each country has sent to the Games since 1972 alongside how many medals they’ve actually won offers a bigger picture. In one key visualization, we see this relationship laid out on a plot: countries that send more athletes tend to win more medals—no surprise there.
 
 <iframe src="/assets/atlete_medal_bar_chart.html" height="600px" width="100%" style="border:none;"></iframe>  
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Figure xx: Total Olympic Medals vs. Total Athletes Sent (1972–2022) </div>
+
 The United States dominates on both axes, sending more than 11,000 athletes and collecting over 1,500 medals. China, Italy, and Japan also follow the trend, with large delegations and high returns.
 
 What’s more revealing is where the pattern breaks. Countries like Kenya and Jamaica, despite relatively modest delegation sizes, show high medal efficiency—winning far more than expected given how few athletes they send. Meanwhile, countries such as India and Mexico have sent large numbers of athletes across the years, but with comparatively low medal totals. Toward the lower left of the plot, small nations like San Marino, Liechtenstein, and the Bahamas stand out for managing to win medals despite sending only a handful of athletes.
+
 These outliers highlight an important point: Olympic success is not just a function of scale. It’s shaped by deeper, often less visible forces—history, politics, priorities, and culture.
-Consider the Cold War era. Countries like the Soviet Union, East Germany, and Cuba treated Olympic medals as proof of ideological supremacy [4]. Their governments invested heavily in state-controlled training systems, with athletes selected and groomed from a young age. That approach left a lasting legacy, still visible today in countries where sports development remains closely tied to state institutions.
-Colonial history has also left its mark [5]. Nations emerging from colonial rule often inherited uneven sports infrastructures—developed for a narrow set of disciplines or concentrated in urban centers. These imbalances shaped which sports gained traction and which were left behind, and in many cases they still define athletic opportunity today.
-Gender equality is another important factor. Countries that actively support women’s participation in public life tend to have more balanced Olympic teams—and better results to show for it [6]. Nordic nations are prime examples, where institutional support has long been in place for female athletes. Meanwhile, countries where gender barriers persist tend to lag in both representation and performance.
+
+Consider the Cold War era. Countries like the Soviet Union, East Germany, and Cuba treated Olympic medals as proof of ideological supremacy [^4]. Their governments invested heavily in state-controlled training systems, with athletes selected and groomed from a young age. That approach left a lasting legacy, still visible today in countries where sports development remains closely tied to state institutions.
+
+Colonial history has also left its mark [^5]. Nations emerging from colonial rule often inherited uneven sports infrastructures—developed for a narrow set of disciplines or concentrated in urban centers. These imbalances shaped which sports gained traction and which were left behind, and in many cases they still define athletic opportunity today.
+
+Gender equality is another important factor. Countries that actively support women’s participation in public life tend to have more balanced Olympic teams—and better results to show for it [^6]. Nordic nations are prime examples, where institutional support has long been in place for female athletes. Meanwhile, countries where gender barriers persist tend to lag in both representation and performance.
+
 In some cases, governments have made Olympic achievement a national mission. China’s system of state-run sports schools and early talent identification is designed for maximum results. Australia and the UK ramped up Olympic investment after disappointing years, and both saw dramatic improvements. These weren’t accidental successes—they were planned, funded, and pursued with focus.
-Finally, there’s the cultural element. Some countries excel in sports that are tied deeply to national identity. Kenya has built a legacy in long-distance running. Japan in martial arts [7]. Hungary in water polo and fencing. These aren’t just athletic preferences—they’re reflections of what a country values, trains for, and celebrates.
+
+Finally, there’s the cultural element. Some countries excel in sports that are tied deeply to national identity. Kenya has built a legacy in long-distance running. Japan in martial arts [^7]. Hungary in water polo and fencing. These aren’t just athletic preferences—they’re reflections of what a country values, trains for, and celebrates.
+
 So yes, countries with more people and more money often win more medals—but not always. The most interesting stories are often found where the trend breaks: where small nations defy the odds, or where history and policy leave a bigger mark than wealth ever could.
 
 ### Conclusion
