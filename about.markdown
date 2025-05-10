@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This portal is created for the final project from the course 02806 Social Data Analysis and Visualization.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Our article investigates what drives Olympic success by comparing 20 countries across three key dimensions: population size, economic strength (GDP), and human development (AHDI). Using historical medal data, we reveal how each factor contributes to national performance — and where it falls short. From global powerhouses to surprising outliers, the story uncovers the mix of scale, resources, and social systems behind the medal count.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+It is created with <3 by Group 84:
 
-
-[jekyll-organization]: https://github.com/jekyll
+Tomasz (s243062)\\
+Mirka (s246259)\\
+Karolina (s243068)
