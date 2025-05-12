@@ -448,7 +448,7 @@ So yes, countries with more people and more money often win more medals—but no
 
 Olympic success is shaped by a complex mix of factors - population size, wealth, development, and culture. While larger countries with higher GDPs tend to perform well, smaller nations often defy expectations. This suggests that while resources and size matter, they aren't the sole drivers of success.
 
-The correlation matrix [Fig. 15] demonstrates the relationships between key metrics: population, GDP per capita, AHDI, and Olympic medal counts. It highlights that while wealth and population have some influence on medal counts, the strongest correlation is with AHDI. This suggests that development plays a significant role in Olympic success, but it’s not the only factor. Countries with targeted investments in certain sports or strong athletic cultures can outperform larger, wealthier nations.
+The correlation matrix in Figure 15 demonstrates the relationships between key metrics: population, GDP per capita, AHDI, and Olympic medal counts. It highlights that while wealth and population have some influence on medal counts, the strongest correlation is with AHDI. This suggests that development plays a significant role in Olympic success, but it’s not the only factor. Countries with targeted investments in certain sports or strong athletic cultures can outperform larger, wealthier nations.
 
 <iframe src="/assets/corrMatrix.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 1px; color: #666; text-align: left; padding: 2px; font-weight: normal; font-style: italic;">Fig 15. 
@@ -470,18 +470,18 @@ The Olympic Games are about more than just medals. They reflect the deeper force
 
 #### References:
 
-[^1]: https://journals.sagepub.com/doi/10.3233/JSA-240874
-[^2]: https://www.topendsports.com/events/summer/medal-tally/medals-country-size.html
-[^3]: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
-[^4]: https://nationalpost.com/sports/olympics/why-communist-countries-used-to-utterly-dominate-the-olympics
-[^5]: https://www.academia.edu/22617135/Colonial_Olympism_Puerto_Rico_and_Jamaica_s_Olympic_movement_in_Pan_American_sport_1930_to_the_1950s
-[^6]: https://www.olympics.com/ioc/news/closing-the-gender-equality-gap
-[^7]: https://cotoacademy.com/olympics-in-japan/
-[^8]: Rafael del Pino Foundation: Augmented Human Development Index (AHDI). https://frdelpino.es/investigacion/en_gb/world-economy/human-development-world-economy/
-[^9]: How Norway Won All That Olympic Gold (Again). https://www.aspeninstitute.org/blog-posts/how-norway-won-all-that-olympic-gold-again/
-[^10]: Norway, most successful Olympic nation per capita? A surprise? https://www.linkedin.com/pulse/norway-most-successful-olympic-nation-per-capita-surprise-drijard/
-[^11]: The secret behind Norway’s Winter Olympic success. https://edition.cnn.com/2018/02/24/sport/norway-winter-olympic-success-intl/index.html
-[^12]: Why Ethiopia's running success is about more than poverty and altitude. https://www.theguardian.com/lifeandstyle/the-running-blog/2018/aug/15/why-ethiopias-running-success-is-about-more-than-poverty-and-altitude
-[^13]: London 2012: Olympic medals 'reflect human development'. https://www.bbc.com/news/uk-17908290
-[^14]: Golden Past, Troubled Present. https://ethiopianbusinessreview.net/golden-past-troubled-present/
-[^15]: Kenyan and Ethiopian Distance Runners: What Makes Them So Good? https://www.researchgate.net/publication/225064362_Kenyan_and_Ethiopian_Distance_Runners_What_Makes_Them_So_Good
+[^1]: Sage Journals Home. Population-adjusted national rankings in the Olympics. https://journals.sagepub.com/doi/10.3233/JSA-240874  
+[^2]: Topend Sports. Summer Olympic Games: Medals by Country Size. https://www.topendsports.com/events/summer/medal-tally/medals-country-size.html  
+[^3]: The World Bank. GDP per capita, PPP (current international $). https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD  
+[^4]: National Post. Why communist countries used to utterly dominate the Olympics. https://nationalpost.com/sports/olympics/why-communist-countries-used-to-utterly-dominate-the-olympics  
+[^5]: Academia.edu. Colonial Olympism: Puerto Rico and Jamaica’s Olympic movement in Pan American sport, 1930 to the 1950s. https://www.academia.edu/22617135/Colonial_Olympism_Puerto_Rico_and_Jamaica_s_Olympic_movement_in_Pan_American_sport_1930_to_the_1950s  
+[^6]: International Olympic Committee. Closing the gender equality gap. https://www.olympics.com/ioc/news/closing-the-gender-equality-gap  
+[^7]: Coto Academy. Olympics in Japan. https://cotoacademy.com/olympics-in-japan/  
+[^8]: Rafael del Pino Foundation. Augmented Human Development Index (AHDI). https://frdelpino.es/investigacion/en_gb/world-economy/human-development-world-economy/  
+[^9]: Aspen Institute. How Norway Won All That Olympic Gold (Again). https://www.aspeninstitute.org/blog-posts/how-norway-won-all-that-olympic-gold-again/  
+[^10]: LinkedIn. Norway, most successful Olympic nation per capita? A surprise? https://www.linkedin.com/pulse/norway-most-successful-olympic-nation-per-capita-surprise-drijard/  
+[^11]: CNN. The secret behind Norway’s Winter Olympic success. https://edition.cnn.com/2018/02/24/sport/norway-winter-olympic-success-intl/index.html  
+[^12]: The Guardian. Why Ethiopia's running success is about more than poverty and altitude. https://www.theguardian.com/lifeandstyle/the-running-blog/2018/aug/15/why-ethiopias-running-success-is-about-more-than-poverty-and-altitude  
+[^13]: BBC. London 2012: Olympic medals 'reflect human development'. https://www.bbc.com/news/uk-17908290  
+[^14]: Ethiopian Business Review. Golden Past, Troubled Present. https://ethiopianbusinessreview.net/golden-past-troubled-present/  
+[^15]: ResearchGate. Kenyan and Ethiopian Distance Runners: What Makes Them So Good? https://www.researchgate.net/publication/225064362_Kenyan_and_Ethiopian_Distance_Runners_What_Makes_Them_So_Good  
