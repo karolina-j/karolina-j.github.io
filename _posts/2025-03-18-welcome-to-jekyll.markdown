@@ -423,7 +423,7 @@ In other words, AHDI adds another important piece to the Olympic puzzle, but jus
 When we look at Olympic performance over the past fifty years, it’s tempting to focus purely on medal counts. But zooming out to compare how many athletes each country has sent to the Games since 1972 alongside how many medals they’ve actually won offers a bigger picture. In one key visualization, we see this relationship laid out on a plot: countries that send more athletes tend to win more medals—no surprise there.
 
 <iframe src="/assets/atlete_medal_bar_chart.html" height="600px" width="100%" style="border:none;"></iframe>  
-<div style="caption-side: bottom; font-size: 0.9em; margin-top: 1px; color: #666; text-align: left; padding: 1px; font-weight: normal; font-style: italic;">Fig 14. Total Olympic Medals vs. Total Athletes Sent (1972–2022) </div>
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 1px; color: #666; text-align: left; padding: 1px; font-weight: normal; font-style: italic;">Fig 14. Total Olympic Medals vs. Total Athletes Sent (1972–2022). This scatter plot displays the relationship between the total number of athletes sent to the Olympics and the total medal count for each of the 20 focus countries from 1972 to 2022. Each point represents a country, showing how larger delegations generally correspond to higher medal totals. The United States stands out as a clear outlier, sending the most athletes and winning the most medals by a wide margin.  </div>
 <br>
 
 The United States dominates on both axes, sending more than 11,000 athletes and collecting over 1,500 medals. China, Italy, and Japan also follow the trend, with large delegations and high returns.
