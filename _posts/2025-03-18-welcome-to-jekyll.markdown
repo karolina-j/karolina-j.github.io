@@ -39,10 +39,6 @@ authors:
     </li>
     <li><a href="#other-reasons" style="text-decoration:none; color:#555;">Other Reasons</a></li>
     <li><a href="#conclusion" style="text-decoration:none; color:#555;">Conclusion</a>
-      <ul style="padding-left:15px;">
-        <li><a href="#reflecting-on-merit-and-fairness" style="text-decoration:none; color:#777; font-size:0.95em;">Reflecting on Merit and Fairness</a></li>
-        <li><a href="#looking-ahead" style="text-decoration:none; color:#777; font-size:0.95em;">Looking Ahead</a></li>
-      </ul>
     </li>
     <li><a href="#references" style="text-decoration:none; color:#555;">References</a></li>
   </ul>
