@@ -309,7 +309,7 @@ Building on this foundation, we use data visualizations and analysis to investig
 <br />
 
 <div style="background:#eaf7fa;color:#155a6a;border:1px solid #b6e0ef;padding:16px 32px;border-radius:8px;margin-bottom:16px;font-size:1.1em;">
-  <strong>ℹ️ Interactive!</strong> All charts in this article are interactive. You can explore them by hovering to reveal more details or by zooming in on specific sections of each chart.
+  <strong>ℹ️ Interactive!</strong> All charts in this article are interactive. You can explore them by hovering to reveal more details, zooming in on specific sections of each chart or spinning the globe. 
 </div>
 
 <iframe src="/assets/olympic_medals_globe_final.html" height="600px" width="100%" style="border:none;"></iframe>
