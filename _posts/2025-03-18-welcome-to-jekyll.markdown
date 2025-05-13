@@ -10,6 +10,44 @@ authors:
         "Karolina Janyga (s243068) 33%",
     ]
 ---
+<!-- Table of Contents -->
+<nav id="toc" style="position:fixed; right:2vw; top:10vh; width:220px; background:rgba(250, 250, 250, 0.7); border:1px solid #e0e0e0; padding:16px; border-radius:8px; font-size:0.9em; box-shadow:0 2px 8px rgba(0,0,0,0.05); backdrop-filter:blur(5px);">
+  <h4 style="margin-top:0; color:#555; font-weight:500;">Content</h4>
+  <ul style="padding-left:0; list-style-type:none; margin-bottom:0;">
+    <li><a href="#introduction" style="text-decoration:none; color:#555;">Introduction</a></li>
+    <li><a href="#size-matters---population" style="text-decoration:none; color:#555;">Size Matters - Population</a>
+      <ul style="padding-left:15px;">
+        <li><a href="#china-from-demographic-giant-to-olympic-powerhouse" style="text-decoration:none; color:#777; font-size:0.95em;">China: From Demographic Giant to Olympic Powerhouse</a></li>
+        <li><a href="#rethinking-success-medals-per-capita" style="text-decoration:none; color:#777; font-size:0.95em;">Rethinking Success: Medals Per Capita</a></li>
+      </ul>
+    </li>
+    <li><a href="#money-talks--the-economic-engine" style="text-decoration:none; color:#555;">Money Talks - The Economic Engine</a>
+      <ul style="padding-left:15px;">
+        <li><a href="#brunei-and-kenya-breaking-the-pattern" style="text-decoration:none; color:#777; font-size:0.95em;">Brunei and Kenya: Breaking the Pattern</a></li>
+        <li><a href="#japan-wealth-driven-consistency" style="text-decoration:none; color:#777; font-size:0.95em;">Japan: Wealth-Driven Consistency</a></li>
+        <li><a href="#hungary-tradition-over-wealth" style="text-decoration:none; color:#777; font-size:0.95em;">Hungary: Tradition Over Wealth</a></li>
+        <li><a href="#wealth-helps--but-doesnt-win-medals-alone" style="text-decoration:none; color:#777; font-size:0.95em;">Wealth Helps - But Doesn't Win Medals Alone</a></li>
+      </ul>
+    </li>
+    <li><a href="#nurturing-talent--the-role-of-human-development" style="text-decoration:none; color:#555;">Nurturing Talent - The Role of Human Development</a>
+      <ul style="padding-left:15px;">
+        <li><a href="#norway-development-as-a-competitive-edge" style="text-decoration:none; color:#777; font-size:0.95em;">Norway: Development as a Competitive Edge</a></li>
+        <li><a href="#ethiopia-success-beyond-development-scores" style="text-decoration:none; color:#777; font-size:0.95em;">Ethiopia: Success Beyond Development Scores</a></li>
+        <li><a href="#ahdi-adds-context--but-not-certainty" style="text-decoration:none; color:#777; font-size:0.95em;">AHDI Adds Context - But Not Certainty</a></li>
+      </ul>
+    </li>
+    <li><a href="#other-reasons" style="text-decoration:none; color:#555;">Other Reasons</a></li>
+    <li><a href="#conclusion" style="text-decoration:none; color:#555;">Conclusion</a>
+      <ul style="padding-left:15px;">
+        <li><a href="#reflecting-on-merit-and-fairness" style="text-decoration:none; color:#777; font-size:0.95em;">Reflecting on Merit and Fairness</a></li>
+        <li><a href="#looking-ahead" style="text-decoration:none; color:#777; font-size:0.95em;">Looking Ahead</a></li>
+      </ul>
+    </li>
+    <li><a href="#references" style="text-decoration:none; color:#555;">References</a></li>
+  </ul>
+</nav>
+
+
 
 {% if page.authors %}
 
@@ -298,11 +336,14 @@ Figure 2 illustrates this pattern by grouping countries according to population 
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 3. Relationship between population size and cumulative Olympic medals (1972–2022): While countries with larger populations like the USA and China tend to win more medals, notable exceptions such as India and the Bahamas show that population alone does not determine Olympic success</div>
 <br />
 
-To see how population trends can shape Olympic performance over time, Figure 4 focuses on China. The chart shows that as China’s population has grown, so too has its Olympic medals it has won-especially since the country’s return to the Games in the 1980s.
+#### China: From Demographic Giant to Olympic Powerhouse
+China’s Olympic rise is a clear example of how population and national strategy can boost sporting results. Since returning to the Games in 1984, China’s population has grown by hundreds of millions, and its medal count has increased as well. As shown in Figure 4, this growth became especially sharp in the early 2000s, reaching a peak at the 2008 Beijing Olympics. This success is not only about having more people; China also invests heavily in sports schools and talent programs to find and train future champions. The trend in Figure 4 highlights how China’s large population, combined with careful planning, has made the country a major force at the Olympics.
 
 <iframe src="/assets/china_population_vs_summer_and_winter_medals.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 4. China’s population growth and Olympic medal counts over time (1984–2022): As China’s population increased, its number of Summer Olympic medals rose sharply, especially after the 1980s, while Winter Olympic medals grew more gradually.</div>
 <br />
+
+#### Rethinking Success: Medals Per Capita
 
 While population is important, it is not the sole determinant of Olympic success. For instance, India, despite having a massive population, has historically won far fewer medals than countries with much smaller populations. Conversely, small nations like San Marino, Jamaica, and the Bahamas have achieved high medals considering their small population outperforming many larger countries when adjusting for population size.
 
