@@ -51,6 +51,9 @@ authors:
 </p>
 {% endif %}
 
+Link to the <strong>explainer notebook's</strong> GitHub repository can be found
+<a href="https://github.com/karolina-j/social-data-olympics/blob/main/finalProject_explainerNotebook.ipynb" target="_blank" style="color: gray; text-decoration: none; text-decoration: underline">here</a>.
+
 ![Illustration of athletes from various sports layered over the Olympic rings](/assets/olympicsPic.webp)  
 <span style="font-size: 14px; color: gray;">_Collage of Olympic athletes performing across five disciplines — basketball, diving, badminton, sprinting, and hurdles — set against the five Olympic rings._</span>  
 <span style="font-size: 12px; color: gray;">
@@ -350,7 +353,7 @@ This success is not only about having more people; China also invests heavily in
 
 While population is important, it is not the sole determinant of Olympic success. For instance, India, despite having a massive population, has historically won far fewer medals than countries with much smaller populations. Conversely, small nations like San Marino, Jamaica, and the Bahamas have achieved high medal totals despite their small populations, outperforming many larger countries when adjusting for population size.
 
-Many analyses [^1][^2] propose using "medals per capita" or population-adjusted rankings to better assess Olympic performance. These metrics often reveal that small countries excel relative to their size, for example with nations like San Marino, Lichtenstein and Bahamas ranking at the top for medals won per capita in the 2020 Olympic Games in Tokyo, which you can see in the Figure 5.
+Many analyses [^1] propose using "medals per capita" or population-adjusted rankings to better assess Olympic performance. These metrics often reveal that small countries excel relative to their size, for example with nations like San Marino, Lichtenstein and Bahamas ranking at the top for medals won per capita in the 2020 Olympic Games in Tokyo, which you can see in the Figure 5.
 
 <iframe src="/assets/2020_Olympics_Medals_per_Capita.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 5. Medals per capita for 20 selected countries at the 2020 Olympics, displayed on a logarithmic scale. The chart highlights the stark differences in Olympic success relative to population size, with small nations like San Marino and Bahamas achieving the highest medals per capita, while more populous countries such as India and Mexico rank lowest by this measure.
@@ -530,7 +533,6 @@ In the end, the Olympic Games are about so much more than just medals. They refl
 #### References:
 
 [^1]: Sage Journals Home. Population-adjusted national rankings in the Olympics. https://journals.sagepub.com/doi/10.3233/JSA-240874
-[^2]: Topend Sports. Summer Olympic Games: Medals by Country Size. https://www.topendsports.com/events/summer/medal-tally/medals-country-size.html
 [^3]: The World Bank. GDP per capita, PPP (current international $). https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
 [^4]: National Post. Why communist countries used to utterly dominate the Olympics. https://nationalpost.com/sports/olympics/why-communist-countries-used-to-utterly-dominate-the-olympics
 [^5]: Academia.edu. Colonial Olympism: Puerto Rico and Jamaica’s Olympic movement in Pan American sport, 1930 to the 1950s. https://www.academia.edu/22617135/Colonial_Olympism_Puerto_Rico_and_Jamaica_s_Olympic_movement_in_Pan_American_sport_1930_to_the_1950s
