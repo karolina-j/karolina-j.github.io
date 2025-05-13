@@ -520,8 +520,7 @@ It's no wonder, then, that Olympic achievement raises the question: What truly d
 And as the Olympics evolve, it's important to consider how to level the playing field. Ensuring equitable access to resources for athletes in underdeveloped countries could provide a more even chance for success, regardless of a nation's size or wealth.
 <br>
 
-In the end, the Olympic Games are about so much more than just medals. They reflect the deeper forces at play in each country’s development, priorities, and investments.
-
+In the end, the Olympic Games are about so much more than just medals. They reflect the deeper forces at play in each country’s development, priorities, and investments. This is why true Olympic spirit lies in creating a world where every athlete, regardless of where they call home, has the opportunity to reach for gold.
 <br><br><br><br>
 
 #### References:
