@@ -316,44 +316,63 @@ Many analyses [^1][^2] propose using "medals per capita" or population-adjusted 
 While population size plays a significant role, it’s clearly not the only factor behind Olympic success. Could a country’s wealth and economic resources be just as important?
 <br />
 <br />
+
 ### Money Talks — The Economic Engine
 
-While population size gives countries a head start, it’s often wealth that helps them reach the finish line. Nations with higher GDP [^3] per capita can invest in elite athlete development: world-class facilities, full-time coaching, sports science support, nutrition programs, and recovery infrastructure. These resources matter — especially at the razor-thin margins of Olympic competition.
+What if Olympic success is as much about resources as it is about talent? While population gives countries a larger pool of potential athletes, it's often national wealth that determines how far that talent can go. Countries with higher GDP per capita are better positioned to invest in elite athlete development: from world-class training facilities and expert coaching to sports science support, nutrition programs, and recovery infrastructure. These advantages often make the difference at the razor-thin margins of Olympic competition.
 
-This link is clear in Figure 6, which shows the relationship between GDP per capita and total Olympic medals for 20 focus countries. Nations like the USA, Japan, and South Korea consistently outperform in total medals and also rank among the world’s richest countries.
-
-<iframe src="/assets/gdp_medal_scatter.html" height="600px" width="100%" style="border:none;"></iframe>
-<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 6. Relationship between GDP per Capita and Olympic medals (1972–2022): Each dot represents a country. Wealthier countries (right side of the graph) generally win more medals, especially above the $25,000 mark.</div>
-<br />
-
-However, this trend isn’t perfect. A few key exceptions challenge the idea that money guarantees Olympic success. Consider:
-
--   **Brunei**: Despite being a high-income country, it has never won an Olympic medal. This may reflect limited investment in competitive sports, a small population, or lack of sports infrastructure and tradition.
-
--   **Kenya**: In contrast, Kenya has a relatively low GDP per capita but consistently earns Olympic medals, especially in long-distance running. Strong cultural focus, natural training conditions, and targeted investment have helped Kenya punch above its economic weight.
-
-To zoom out, we can examine overall Olympic performance by grouping countries into income brackets. In Figure 7, countries are divided into four GDP categories. The "Very High" income group (> $25k) accounts for the greatest number of medals, but the "Medium" income group also performs strongly, showing that strategic investment and sports focus can partially offset limited national wealth.
+To explore this relationship, we first grouped countries into four income brackets based on GDP per capita. The bar chart below [Fig. X] shows that countries in the "Very High" income bracket dominate in terms of total medals, showing a strong link between national wealth and Olympic success. However, other income groups — especially the "Medium" bracket — also contribute significantly to global medal counts. This suggests that while money helps, it's not everything.
 
 <iframe src="/assets/gdp_medal_bar_chart.html" height="600px" width="100%" style="border:none;"></iframe>
-<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 7. Olympic Medal Count by GDP per Capita Bracket for all countries. Countries with higher GDP per capita have greater overall Olympic success, but middle-income countries also contribute significantly to global medal totals.</div>
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 6. Olympic Medal Count by GDP per Capita Bracket for all countries. Countries with higher GDP per capita have greater overall Olympic success, but middle-income countries also contribute significantly to global medal totals.</div>
 <br />
 
-For a closer look at how wealth helps sustain Olympic success over time, we can examine two economic success stories:
+To examine the trend more closely, the scatterplot [Fig. Y] maps GDP per capita against total Olympic medals for our 20 focus countries from 1972 to 2022. A clear trend emerges: wealthier countries like the United States, Japan, and South Korea tend to win more medals. Their economic resources allow them to build and sustain systems that support long-term athletic excellence.
+
+But the pattern is far from perfect — some nations underperform relative to their wealth, while others punch far above their economic weight.
+
+<iframe src="/assets/gdp_medal_scatter.html" height="600px" width="100%" style="border:none;"></iframe>
+<div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 7. Relationship between GDP per Capita and Olympic medals (1972–2022): Each dot represents a country. Wealthier countries (right side of the graph) generally win more medals, especially above the $25,000 mark.</div>
+<br />
+
+#### Brunei and Kenya: Breaking the Pattern
+
+Some of the most revealing insights come from countries that defy the trend entirely.
+
+-   **Brunei** stands out as a wealthy country with zero Olympic medals. Despite its high GDP per capita, it has not translated economic prosperity into Olympic success. This may reflect a combination of factors, including its small population, limited sporting traditions, or possibly low national prioritization of elite sports infrastructure.
+
+-   **Kenya**, by contrast, is a standout success story at the opposite end of the spectrum. With a relatively low GDP per capita, Kenya consistently wins Olympic medals, especially in middle- and long-distance running. The country’s success is rooted in a combination of natural high-altitude training environments, a deep running culture, and focused investment in athletics. Kenya shows how strategic emphasis on a narrow set of events can overcome broader economic limitations.
+
+#### Japan: Wealth-Driven Consistency
+
+In Japan’s case, decades of rising and stable national wealth helped build a strong foundation for Olympic achievement. As Japan’s GDP per capita rose in the 1980s and stabilized in the 2000s, its medal counts followed a similar upward trend, particularly in the Summer Games [Fig. 8]. This sustained economic prosperity enabled large-scale investment in sports infrastructure, youth development, and coaching systems.
+
+Japan’s strength is especially visible in sports like judo, gymnastics, and swimming — events where the country has established deep competitive traditions and continues to nurture elite talent through well-funded public programs.
 
 <iframe src="/assets/gdp_medal_japan.html" height="700px" width="100%" style="border:none;"></iframe> 
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 8. Japan’s GDP per capita and Olympic medal counts (1972–2022): As Japan’s economic prosperity increased, both Summer and Winter Olympic medal totals generally rose, highlighting the link between national wealth and Olympic success.</div>
 <br />
 
-As Japan’s economy grew in the 1980s and stabilized in the 2000s, its Olympic performance also remained strong, particularly in Summer Games. This period of economic prosperity enabled significant investment in sports infrastructure, athlete development, and coaching, helping Japan maintain a competitive edge on the world stage. Notably, Japan’s medal counts have been especially high in sports like judo, gymnastics, and swimming-disciplines where the country has established deep traditions and consistently nurtured elite talent.
+#### Hungary: Tradition Over Wealth
+
+Hungary tells a different story. Although the country has seen steady economic growth since the early 1990s, its Olympic medal counts have fluctuated [Fig. 9], sometimes diverging from GDP trends. And yet, Hungary remains a consistent overachiever in select disciplines like water polo, fencing, and canoe sprinting.
+
+Rather than depending on broad-based wealth, Hungary’s success reflects a long-standing cultural emphasis on specific sports, backed by targeted support and a sense of national pride. In water polo, for instance, Hungary has won more Olympic gold medals than any other country — a testament to its enduring dominance in the sport.
+
+This kind of focused legacy shows how deep-rooted traditions and strategic investment in niche disciplines can sustain Olympic success, even without the economic muscle of larger nations.
 
 <iframe src="/assets/gdp_medal_hungary.html" height="600px" width="100%" style="border:none;"></iframe>  
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 9. Hungary’s GDP per capita and Olympic medal counts (1972–2022): Despite steady economic growth, Hungary’s Summer Olympic medal totals have fluctuated, suggesting that rising national wealth does not always directly translate to increased Olympic success.</div>
 <br />
-Conversely, Hungary’s economic growth has not always translated directly into more medals, highlighting that tradition, specialization, and focused support can be just as important as wealth. For example, Hungary has maintained world-class excellence in water polo, winning more Olympic gold medals in the sport than any other nation. This enduring success is rooted in a deep sporting tradition and targeted investment in specific disciplines, demonstrating how a country’s cultural focus and legacy in certain sports can sustain high performance even when broader economic advantages fluctuate.
 
-Together, these visualizations show that while wealth doesn’t guarantee Olympic success, it offers a clear advantage — especially when combined with national investment, sports infrastructure, and cultural support.
+#### Wealth Helps — But Doesn't Win Medals Alone
 
-If population size and economic strength both matter — but don’t fully explain the differences in Olympic outcomes — what else could be influencing success?<br/>
+GDP per capita is a strong predictor of Olympic success. Wealthy countries are better equipped to train, support, and sustain elite athletes — and the data makes that clear. But as Brunei and Kenya show, money alone doesn’t guarantee medals, and a lack of it doesn’t automatically hold a country back.
+
+Japan and Hungary underline this point in different ways. Japan uses its wealth to build deep, well-funded systems across a wide range of sports. Hungary, on the other hand, leans on tradition and focused support in specific events. Both approaches work — but not because of GDP alone.
+
+So if size and money aren’t everything, what else could be driving Olympic success?
+<br/><br/>
 
 ### Nurturing Talent — The Role of Human Development
 
@@ -470,18 +489,18 @@ The Olympic Games are about more than just medals. They reflect the deeper force
 
 #### References:
 
-[^1]: Sage Journals Home. Population-adjusted national rankings in the Olympics. https://journals.sagepub.com/doi/10.3233/JSA-240874  
-[^2]: Topend Sports. Summer Olympic Games: Medals by Country Size. https://www.topendsports.com/events/summer/medal-tally/medals-country-size.html  
-[^3]: The World Bank. GDP per capita, PPP (current international $). https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD  
-[^4]: National Post. Why communist countries used to utterly dominate the Olympics. https://nationalpost.com/sports/olympics/why-communist-countries-used-to-utterly-dominate-the-olympics  
-[^5]: Academia.edu. Colonial Olympism: Puerto Rico and Jamaica’s Olympic movement in Pan American sport, 1930 to the 1950s. https://www.academia.edu/22617135/Colonial_Olympism_Puerto_Rico_and_Jamaica_s_Olympic_movement_in_Pan_American_sport_1930_to_the_1950s  
-[^6]: International Olympic Committee. Closing the gender equality gap. https://www.olympics.com/ioc/news/closing-the-gender-equality-gap  
-[^7]: Coto Academy. Olympics in Japan. https://cotoacademy.com/olympics-in-japan/  
-[^8]: Rafael del Pino Foundation. Augmented Human Development Index (AHDI). https://frdelpino.es/investigacion/en_gb/world-economy/human-development-world-economy/  
-[^9]: Aspen Institute. How Norway Won All That Olympic Gold (Again). https://www.aspeninstitute.org/blog-posts/how-norway-won-all-that-olympic-gold-again/  
-[^10]: LinkedIn. Norway, most successful Olympic nation per capita? A surprise? https://www.linkedin.com/pulse/norway-most-successful-olympic-nation-per-capita-surprise-drijard/  
-[^11]: CNN. The secret behind Norway’s Winter Olympic success. https://edition.cnn.com/2018/02/24/sport/norway-winter-olympic-success-intl/index.html  
-[^12]: The Guardian. Why Ethiopia's running success is about more than poverty and altitude. https://www.theguardian.com/lifeandstyle/the-running-blog/2018/aug/15/why-ethiopias-running-success-is-about-more-than-poverty-and-altitude  
-[^13]: BBC. London 2012: Olympic medals 'reflect human development'. https://www.bbc.com/news/uk-17908290  
-[^14]: Ethiopian Business Review. Golden Past, Troubled Present. https://ethiopianbusinessreview.net/golden-past-troubled-present/  
-[^15]: ResearchGate. Kenyan and Ethiopian Distance Runners: What Makes Them So Good? https://www.researchgate.net/publication/225064362_Kenyan_and_Ethiopian_Distance_Runners_What_Makes_Them_So_Good  
+[^1]: Sage Journals Home. Population-adjusted national rankings in the Olympics. https://journals.sagepub.com/doi/10.3233/JSA-240874
+[^2]: Topend Sports. Summer Olympic Games: Medals by Country Size. https://www.topendsports.com/events/summer/medal-tally/medals-country-size.html
+[^3]: The World Bank. GDP per capita, PPP (current international $). https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
+[^4]: National Post. Why communist countries used to utterly dominate the Olympics. https://nationalpost.com/sports/olympics/why-communist-countries-used-to-utterly-dominate-the-olympics
+[^5]: Academia.edu. Colonial Olympism: Puerto Rico and Jamaica’s Olympic movement in Pan American sport, 1930 to the 1950s. https://www.academia.edu/22617135/Colonial_Olympism_Puerto_Rico_and_Jamaica_s_Olympic_movement_in_Pan_American_sport_1930_to_the_1950s
+[^6]: International Olympic Committee. Closing the gender equality gap. https://www.olympics.com/ioc/news/closing-the-gender-equality-gap
+[^7]: Coto Academy. Olympics in Japan. https://cotoacademy.com/olympics-in-japan/
+[^8]: Rafael del Pino Foundation. Augmented Human Development Index (AHDI). https://frdelpino.es/investigacion/en_gb/world-economy/human-development-world-economy/
+[^9]: Aspen Institute. How Norway Won All That Olympic Gold (Again). https://www.aspeninstitute.org/blog-posts/how-norway-won-all-that-olympic-gold-again/
+[^10]: LinkedIn. Norway, most successful Olympic nation per capita? A surprise? https://www.linkedin.com/pulse/norway-most-successful-olympic-nation-per-capita-surprise-drijard/
+[^11]: CNN. The secret behind Norway’s Winter Olympic success. https://edition.cnn.com/2018/02/24/sport/norway-winter-olympic-success-intl/index.html
+[^12]: The Guardian. Why Ethiopia's running success is about more than poverty and altitude. https://www.theguardian.com/lifeandstyle/the-running-blog/2018/aug/15/why-ethiopias-running-success-is-about-more-than-poverty-and-altitude
+[^13]: BBC. London 2012: Olympic medals 'reflect human development'. https://www.bbc.com/news/uk-17908290
+[^14]: Ethiopian Business Review. Golden Past, Troubled Present. https://ethiopianbusinessreview.net/golden-past-troubled-present/
+[^15]: ResearchGate. Kenyan and Ethiopian Distance Runners: What Makes Them So Good? https://www.researchgate.net/publication/225064362_Kenyan_and_Ethiopian_Distance_Runners_What_Makes_Them_So_Good
