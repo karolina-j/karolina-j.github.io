@@ -10,8 +10,9 @@ authors:
         "Karolina Janyga (s243068) 33%",
     ]
 ---
+
 <!-- Table of Contents -->
-<nav id="toc" style="position:fixed; right:2vw; top:10vh; width:220px; background:rgba(250, 250, 250, 0.7); border:1px solid #e0e0e0; padding:16px; border-radius:8px; font-size:0.9em; box-shadow:0 2px 8px rgba(0,0,0,0.05); backdrop-filter:blur(5px);">
+<nav id="toc" style="position:fixed; right:2vw; top:10vh; width:220px; max-height:80vh; overflow-y:auto; background:rgba(250, 250, 250, 0.7); border:1px solid #e0e0e0; padding:16px; border-radius:8px; font-size:0.9em; box-shadow:0 2px 8px rgba(0,0,0,0.05); backdrop-filter:blur(5px);">
   <h4 style="margin-top:0; color:#555; font-weight:500;">Content</h4>
   <ul style="padding-left:0; list-style-type:none; margin-bottom:0;">
     <li><a href="#introduction" style="text-decoration:none; color:#555;">Introduction</a></li>
@@ -46,8 +47,6 @@ authors:
     <li><a href="#references" style="text-decoration:none; color:#555;">References</a></li>
   </ul>
 </nav>
-
-
 
 {% if page.authors %}
 
@@ -337,6 +336,7 @@ Figure 2 illustrates this pattern by grouping countries according to population 
 <br />
 
 #### China: From Demographic Giant to Olympic Powerhouse
+
 China’s Olympic rise is a clear example of how population and national strategy can boost sporting results. Since returning to the Games in 1984, China’s population has grown by hundreds of millions, and its medal count has increased as well. As shown in Figure 4, this growth became especially sharp in the early 2000s, reaching a peak at the 2008 Beijing Olympics. But can population size alone explain China's remarkable Olympic success?
 <br />
 <br />
@@ -365,13 +365,13 @@ While population size plays a significant role, it’s clearly not the only fact
 
 What if Olympic success is as much about resources as it is about talent? While population gives countries a larger pool of potential athletes, it's often national wealth that determines how far that talent can go. Countries with higher GDP per capita are better positioned to invest in elite athlete development: from world-class training facilities and expert coaching to sports science support, nutrition programs, and recovery infrastructure. These advantages often make the difference at the razor-thin margins of Olympic competition.
 
-To explore this relationship, we first grouped countries into four income brackets based on GDP per capita. The bar chart below [Fig. X] shows that countries in the "Very High" income bracket dominate in terms of total medals, showing a strong link between national wealth and Olympic success. However, other income groups — especially the "Medium" bracket — also contribute significantly to global medal counts. This suggests that while money helps, it's not everything.
+To explore this relationship, we first grouped countries into four income brackets based on GDP per capita. The bar chart in Figure 6 shows that countries in the "Very High" income bracket dominate in terms of total medals, showing a strong link between national wealth and Olympic success. However, other income groups — especially the "Medium" bracket — also contribute significantly to global medal counts. This suggests that while money helps, it's not everything.
 
 <iframe src="/assets/gdp_medal_bar_chart.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 6. Olympic Medal Count by GDP per Capita Bracket for all countries. Countries with higher GDP per capita have greater overall Olympic success, but middle-income countries also contribute significantly to global medal totals.</div>
 <br />
 
-To examine the trend more closely, the scatterplot [Fig. Y] maps GDP per capita against total Olympic medals for our 20 focus countries from 1972 to 2022. A clear trend emerges: wealthier countries like the United States, Japan, and South Korea tend to win more medals. Their economic resources allow them to build and sustain systems that support long-term athletic excellence.
+To examine the trend more closely, the scatterplot in Figure 7 maps GDP per capita against total Olympic medals for our 20 focus countries from 1972 to 2022. A clear trend emerges: wealthier countries like the United States, Japan, and South Korea tend to win more medals. Their economic resources allow them to build and sustain systems that support long-term athletic excellence.
 
 But the pattern is far from perfect — some nations underperform relative to their wealth, while others punch far above their economic weight.
 
@@ -389,7 +389,7 @@ Some of the most revealing insights come from countries that defy the trend enti
 
 #### Japan: Wealth-Driven Consistency
 
-In Japan’s case, decades of rising and stable national wealth helped build a strong foundation for Olympic achievement. As Japan’s GDP per capita rose in the 1980s and stabilized in the 2000s, its medal counts followed a similar upward trend, particularly in the Summer Games [Fig. 8]. This sustained economic prosperity enabled large-scale investment in sports infrastructure, youth development, and coaching systems.
+In Japan’s case, decades of rising and stable national wealth helped build a strong foundation for Olympic achievement. As Japan’s GDP per capita rose in the 1980s and stabilized in the 2000s, its medal counts followed a similar upward trend, particularly in the Summer Games, as it is illustrated in Figure 8. This sustained economic prosperity enabled large-scale investment in sports infrastructure, youth development, and coaching systems.
 
 Japan’s strength is especially visible in sports like judo, gymnastics, and swimming — events where the country has established deep competitive traditions and continues to nurture elite talent through well-funded public programs.
 
@@ -399,7 +399,7 @@ Japan’s strength is especially visible in sports like judo, gymnastics, and sw
 
 #### Hungary: Tradition Over Wealth
 
-Hungary tells a different story. Although the country has seen steady economic growth since the early 1990s, its Olympic medal counts have fluctuated [Fig. 9], sometimes diverging from GDP trends. And yet, Hungary remains a consistent overachiever in select disciplines like water polo, fencing, and canoe sprinting.
+Hungary tells a different story. Although the country has seen steady economic growth since the early 1990s, its Olympic medal counts have fluctuated, sometimes diverging from GDP trends, as it is shown in Figure 9. And yet, Hungary remains a consistent overachiever in select disciplines like water polo, fencing, and canoe sprinting.
 
 Rather than depending on broad-based wealth, Hungary’s success reflects a long-standing cultural emphasis on specific sports, backed by targeted support and a sense of national pride. In water polo, for instance, Hungary has won more Olympic gold medals than any other country — a testament to its enduring dominance in the sport.
 
@@ -519,15 +519,12 @@ This heatmap visualizes the relationships between key metrics—population, GDP 
 </div>
 <br>
 
-**Reflecting on Merit and Fairness** \\
-Olympic achievement raises the question: What truly defines merit in sport? Is it only about individual ability, or is it influenced by the systems, resources, and opportunities that a country provides its athletes? The disparities in resources across nations suggest that the Games, while competitive, are not entirely fair.
+It's no wonder, then, that Olympic achievement raises the question: What truly defines merit in sport? Is it only about individual ability, or is it influenced by the systems, resources, and opportunities that a country provides for its athletes? The disparities in resources across nations suggest that the Games, while competitive, are not entirely fair.
 
-**Looking Ahead** \\
-As the Olympics evolve, it's important to consider how the playing field can be leveled. Ensuring equitable access to resources for athletes in underdeveloped countries could provide a more even chance for success, regardless of a nation's size or wealth.
-<br>
+And as the Olympics evolve, it's important to consider how to level the playing field. Ensuring equitable access to resources for athletes in underdeveloped countries could provide a more even chance for success, regardless of a nation's size or wealth.
 <br>
 
-The Olympic Games are about more than just medals. They reflect the deeper forces at play in each country’s development, priorities, and investments.
+In the end, the Olympic Games are about so much more than just medals. They reflect the deeper forces at play in each country’s development, priorities, and investments.
 
 <br><br><br><br>
 
