@@ -64,6 +64,10 @@ Read more
 
 #### Olympic success is shaped by more than just sports training. Factors like a country’s population, economic resources, and social development all play a part. Sometimes, political events or cultural traditions can also make a difference in how well a country performs.
 
+---
+
+<br>
+
 For the final assignment, we’re focusing on Olympic data from the Olympic Games in 1972 to 2022. Although data is available from the very first modern Olympics in 1896, we chose this period because earlier years saw many changes to country borders due to the world wars and administrative shifts. Additionally, this timeframe is long enough to capture meaningful changes in the data and highlight recent trends.
 
 We also selected 20 focus countries as seen in Table 1 so we can take a closer look at the patterns behind their medal counts. Our selection was designed to cover a full range of Olympic performance from top medal-winning nations to countries that rarely or never win medals. We focused on countries with stable national identities since the 1970s, which allows us to make fair time-series comparisons. The chosen countries also represent a wide variety of population sizes, from less than a million to over a billion, and include nations with different economic strengths and levels of human development index.
@@ -344,7 +348,7 @@ This success is not only about having more people; China also invests heavily in
 
 #### Rethinking Success: Medals Per Capita
 
-While population is important, it is not the sole determinant of Olympic success. For instance, India, despite having a massive population, has historically won far fewer medals than countries with much smaller populations. Conversely, small nations like San Marino, Jamaica, and the Bahamas have achieved high medals considering their small population outperforming many larger countries when adjusting for population size.
+While population is important, it is not the sole determinant of Olympic success. For instance, India, despite having a massive population, has historically won far fewer medals than countries with much smaller populations. Conversely, small nations like San Marino, Jamaica, and the Bahamas have achieved high medal totals despite their small populations, outperforming many larger countries when adjusting for population size.
 
 Many analyses [^1][^2] propose using "medals per capita" or population-adjusted rankings to better assess Olympic performance. These metrics often reveal that small countries excel relative to their size, for example with nations like San Marino, Lichtenstein and Bahamas ranking at the top for medals won per capita in the 2020 Olympic Games in Tokyo, which you can see in the Figure 5.
 
@@ -427,7 +431,7 @@ The bar chart presented in Figure 10 categorizes Olympic medal counts into four 
 This chart categorizes Olympic medal counts into four AHDI brackets: Low (< 0.26), Medium (0.26–0.37), High (0.37–0.52), and Very High (> 0.52). Countries in the 'Very High' bracket overwhelmingly lead in medal counts, supporting the idea that development plays a significant role in Olympic success. However, the presence of medals in lower brackets suggests that development alone does not fully determine outcomes.
 </div><br>
 
-To explore these nuances further, the scatterplot from Figure 11 compares the average AHDI of our 20 focus countries with their total Olympic medal counts over the last fifty years. This visualization highlights the general trend that countries with higher AHDI - such as Japan, Norway, and the USA - tend to dominate the medal tables. These nations tend to have robust education systems, good public health infrastructure, and widespread access to recreational sports, all of which help nurture athletic talent from a young age.
+To explore these nuances further, the scatterplot from Figure 11 compares the average AHDI of our 20 focus countries with their total Olympic medal counts over the last fifty years. This visualization highlights the general trend that countries with higher AHDI - such as Japan, Norway, and the USA - tend to dominate the medal tables. These nations tend to have robust education systems, good public health infrastructure (apart from the USA ;) ), and widespread access to recreational sports, all of which help nurture athletic talent from a young age.
 
 But just like with GDP, AHDI doesn’t tell the whole story. To dig deeper, we take a closer look at two countries that illustrate both sides of this dynamic: _Norway_ and _Ethiopia_.
 
