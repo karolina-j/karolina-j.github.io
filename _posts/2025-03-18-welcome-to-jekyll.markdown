@@ -337,7 +337,10 @@ Figure 2 illustrates this pattern by grouping countries according to population 
 <br />
 
 #### China: From Demographic Giant to Olympic Powerhouse
-China’s Olympic rise is a clear example of how population and national strategy can boost sporting results. Since returning to the Games in 1984, China’s population has grown by hundreds of millions, and its medal count has increased as well. As shown in Figure 4, this growth became especially sharp in the early 2000s, reaching a peak at the 2008 Beijing Olympics. This success is not only about having more people; China also invests heavily in sports schools and talent programs to find and train future champions. The trend in Figure 4 highlights how China’s large population, combined with careful planning, has made the country a major force at the Olympics.
+China’s Olympic rise is a clear example of how population and national strategy can boost sporting results. Since returning to the Games in 1984, China’s population has grown by hundreds of millions, and its medal count has increased as well. As shown in Figure 4, this growth became especially sharp in the early 2000s, reaching a peak at the 2008 Beijing Olympics. But can population size alone explain China's remarkable Olympic success?
+<br />
+<br />
+This success is not only about having more people; China also invests heavily in sports schools and talent programs to find and train future champions. The trend in Figure 4 highlights how China’s large population, combined with careful planning, has made the country a major force at the Olympics.
 
 <iframe src="/assets/china_population_vs_summer_and_winter_medals.html" height="600px" width="100%" style="border:none;"></iframe>
 <div style="caption-side: bottom; font-size: 0.9em; margin-top: 5px; color: #666; text-align: left; padding: 4px; font-weight: normal; font-style: italic;">Fig 4. China’s population growth and Olympic medal counts over time (1984–2022): As China’s population increased, its number of Summer Olympic medals rose sharply, especially after the 1980s, while Winter Olympic medals grew more gradually.</div>
